@@ -1,0 +1,45 @@
+body{
+    background: turquoise;
+    
+}
+.mother{
+   width: 600px;
+   height: 600px; 
+   margin: auto;
+}
+.food{
+width: 300px;
+height: 600px;
+float:left;
+text-align: center;
+background-color: white;
+
+}
+.picturefood{
+    width:300px ;
+    height: 600px;
+    float:right;
+    background-color: rgb(24, 78, 24);
+}
+
+
+
+
+
+
+
+
+
+
+
+.image{
+    width: 100px;
+    border-radius: 50px;
+}
+h3{
+    font: bolder;
+
+}
+ul{
+    list-style-type: none;
+}
